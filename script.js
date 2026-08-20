@@ -3,7 +3,7 @@ let userAnswers = [];
 let reviewQuestions = [];
 let answeredQuestions = [];
 
-let timeLeft = 3600; // 60 minutes
+let timeLeft = 1500; // 60 minutes
 let timerInterval;
 
 // Initialize Quiz
