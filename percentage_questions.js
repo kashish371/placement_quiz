@@ -1,4 +1,4 @@
-const percentageQuestions = [
+const questions = [
   {
     question: "If A's salary is 25% more than B's salary, then by what percentage is B's salary less than A's salary?",
     options: [
